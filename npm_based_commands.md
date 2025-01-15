@@ -1,0 +1,11 @@
+#to install dependencies
+npm install 
+
+#to create package.json file
+npm init
+
+#to execute commands defined in projects package.json file
+npm run
+
+#to build package
+npm build
