@@ -1,5 +1,5 @@
 #to install dependencies
-npm install 
+npm run install 
 
 #to create package.json file
 npm init
@@ -8,4 +8,4 @@ npm init
 npm run
 
 #to build package
-npm build
+npm run build
